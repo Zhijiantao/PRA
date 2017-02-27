@@ -1,0 +1,36 @@
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Rapid.Core.dll
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Rapid.Core.pdb
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Study\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Study\ASP.NET Code Template\Rapid.Core\obj\Debug\Rapid.Core.csprojResolveAssemblyReference.cache
+C:\Study\ASP.NET Code Template\Rapid.Core\obj\Debug\Rapid.Core.dll
+C:\Study\ASP.NET Code Template\Rapid.Core\obj\Debug\Rapid.Core.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Rapid.Core.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Rapid.Core.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\obj\Debug\Rapid.Core.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Core\obj\Debug\Rapid.Core.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Rapid.Core.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Rapid.Core.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\obj\Debug\Rapid.Core.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Core\obj\Debug\Rapid.Core.pdb

@@ -1,0 +1,35 @@
+﻿@model ProductViewModel    
+
+@Html.HiddenFor(m => m.ProductId)
+
+<div class="form-group">
+    @Html.LabelFor(t => t.ProductName, new { @class = "col-sm-4 control-label" })
+    <div class="col-sm-8">
+        @Html.TextBoxFor(m => m.ProductName, new { @class = "form-control" })
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(t => t.Price, new { @class = "col-sm-4 control-label" })
+    <div class="col-sm-8">
+        @Html.TextBoxFor(m => m.Price, new { @class = "form-control" })
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(t => t.DiscountIndicator, new { @class = "col-sm-4 control-label" })
+    <div class="col-sm-8">
+        @Html.TextBoxFor(m => m.DiscountIndicator, new { @class = "form-control" })
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(t => t.State, new { @class = "col-sm-4 control-label" })
+    <div class="col-sm-8">
+        @Html.TextBoxFor(m => m.State, new { @class = "form-control" })
+    </div>
+</div>
+<div class="form-group">
+    @Html.LabelFor(t => t.TaxRate, new { @class = "col-sm-4 control-label" })
+    <div class="col-sm-8">
+        @Html.TextBoxFor(m => m.TaxRate, new { @class = "form-control" })
+    </div>
+</div>
+

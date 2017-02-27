@@ -1,0 +1,17 @@
+﻿@model IEnumerable<ProductViewModel>
+@{
+    ViewBag.Title = "Product Page";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h4 class="panel-title">Product List</h4>
+    </div>
+    <div class="panel-body">
+        <div id="GridContainer">
+            @Html.Partial("_CalculatorGrid", Model)
+        </div>
+         
+    </div>
+
+</div>

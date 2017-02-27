@@ -1,0 +1,25 @@
+C:\Study\ASP.NET Code Template\Rapid.Model\bin\Debug\Rapid.Model.dll
+C:\Study\ASP.NET Code Template\Rapid.Model\bin\Debug\Rapid.Model.pdb
+C:\Study\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.dll
+C:\Study\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Study\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.xml
+C:\Study\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Study\ASP.NET Code Template\Rapid.Model\obj\Debug\Rapid.Model.csprojResolveAssemblyReference.cache
+C:\Study\ASP.NET Code Template\Rapid.Model\obj\Debug\Rapid.Model.dll
+C:\Study\ASP.NET Code Template\Rapid.Model\obj\Debug\Rapid.Model.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\bin\Debug\Rapid.Model.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\bin\Debug\Rapid.Model.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\obj\Debug\Rapid.Model.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Model\obj\Debug\Rapid.Model.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\bin\Debug\Rapid.Model.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\bin\Debug\Rapid.Model.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\obj\Debug\Rapid.Model.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Model\obj\Debug\Rapid.Model.pdb

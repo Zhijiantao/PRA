@@ -1,0 +1,62 @@
+﻿@model ProductViewModel
+
+
+  @using (Ajax.BeginForm("DependencyInjectionDemo", new AjaxOptions { UpdateTargetId = "divTaxDeatils" }))
+                            
+                                              
+   {
+       
+   <fieldset class="text-center small">
+        <legend>Calulate Cost</legend><div id="div1"></div>
+ 
+       <div class="editor-label">
+            @Html.LabelFor(model => model.ProductName)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.ProductName, new { @readonly = "readonly"  })          
+        </div>
+ 
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Price)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.Price, new { @readonly = "readonly" })          
+        </div>
+ 
+ 
+
+          <div class="editor-label">
+            @Html.LabelFor(model => model.DiscountIndicator)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.DiscountIndicator, new { @readonly = "readonly" })           
+        </div>
+
+              <div class="editor-label">
+        <div class="alert alert-success" role="alert" style="margin-top:5px">Please tell me how many pieces you want.</div>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.TotalQuantity)        
+
+        </div>
+           <div class="editor-label">
+              <div class="alert alert-success" role="alert" style="margin-top:5px">Please tell me your current State.</div>
+       
+        </div>
+        <div class="editor-field">
+             
+            @Html.DropDownListFor(model => model.State, (IEnumerable<SelectListItem>)ViewBag.MyList)    
+        </div>
+       <div ></div>
+       <p>
+           </p>
+         <p>
+          <input type="submit" value="Calculate" />
+        </p>
+
+    </fieldset>
+ }
+
+
+
+ 

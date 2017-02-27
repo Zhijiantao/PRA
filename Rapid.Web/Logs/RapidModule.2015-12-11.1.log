@@ -1,0 +1,23 @@
+12/10/2015 13:28:12.018 | Unity Registrations :: Microsoft.Practices.Unity.IUnityContainer => Microsoft.Practices.Unity.IUnityContainer using ContainerLifetimeManager
+12/10/2015 13:28:12.048 | Unity Registrations :: Rapid.Core.Common.ConfigGateway => Rapid.Core.Common.ConfigGateway using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.048 | Unity Registrations :: Rapid.Core.Common.IConfigGateway => Rapid.Core.Common.ConfigGateway using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.048 | Unity Registrations :: Rapid.Core.Common.RapidHandleErrorAttribute => Rapid.Core.Common.RapidHandleErrorAttribute using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.048 | Unity Registrations :: Rapid.Core.Data.ColumnAttribute => Rapid.Core.Data.ColumnAttribute using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.048 | Unity Registrations :: Rapid.Core.Data.Database => Rapid.Core.Data.Database using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.048 | Unity Registrations :: Rapid.Core.Data.IDatabase => Rapid.Core.Data.Database using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Core.Data.KeyAttribute => Rapid.Core.Data.KeyAttribute using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Core.Data.TableAttribute => Rapid.Core.Data.TableAttribute using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Core.Logging.ILoggingGateway => Rapid.Core.Logging.LoggingGateway using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Core.Logging.LoggingGateway => Rapid.Core.Logging.LoggingGateway using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Core.Logging.RapidLogEntry => Rapid.Core.Logging.RapidLogEntry using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Data.EmployeeRepository => Rapid.Data.EmployeeRepository using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Data.IEmployeeRepository => Rapid.Data.EmployeeRepository using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.DogManager => Rapid.Service.DogManager using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.EmployeeManager => Rapid.Service.EmployeeManager using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.IAnimalManager => Rapid.Service.DogManager using TransientLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.IAnimalManager => Rapid.Service.CatManager using TransientLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.IAnimalManager => Rapid.Service.OtherAnimalManager using TransientLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.IEmployeeManager => Rapid.Service.EmployeeManager using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.OtherAnimalManager => Rapid.Service.OtherAnimalManager using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.049 | Unity Registrations :: Rapid.Service.ServiceLocator => Rapid.Service.ServiceLocator using ContainerControlledLifetimeManager
+12/10/2015 13:28:12.253 | Application Startup :: Application Starting.

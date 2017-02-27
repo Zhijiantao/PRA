@@ -1,0 +1,92 @@
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.Tests.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.Tests.pdb
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\AutoMapper.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Core.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Data.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Model.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\EntityFramework.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Core.pdb
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Data.pdb
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Model.pdb
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.pdb
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\AutoMapper.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\EntityFramework.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.csprojResolveAssemblyReference.cache
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.dll
+C:\Study\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.Tests.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.Tests.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\AutoMapper.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Core.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Data.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Model.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Core.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Data.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Model.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.pdb
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\AutoMapper.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.dll
+C:\Users\Derek Tao\Desktop\ASP.NET Code Template\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.Tests.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.Tests.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\AutoMapper.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Core.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Data.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Model.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Core.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Data.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Model.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rapid.Service.pdb
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\AutoMapper.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.dll
+C:\Users\Derek Tao\Desktop\PRA Testing from Zhijian Tao\ASP.NET Code Template\Rapid.Service.Tests\obj\Debug\Rapid.Service.Tests.pdb
